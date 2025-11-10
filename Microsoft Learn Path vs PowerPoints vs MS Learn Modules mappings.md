@@ -1,15 +1,15 @@
 # Microsoft Learn Path vs PowerPoints vs MS Learn Modules mappings
 
+# Official Collection - Course AZ-500T00: Secure cloud resources with Microsoft security technologies - https://learn.microsoft.com/en-us/training/courses/az-500t00 
+
 ## Learning Path 1:  Secure Identity and Access - https://learn.microsoft.com/en-us/training/paths/secure-identity-access/
 
-Module 1: Manage iSecurity controls for identity and access - https://learn.microsoft.com/en-us/training/modules/manage-security-controls-identity-access/ <br>
+Module 1: Manage Security controls for identity and access - https://learn.microsoft.com/en-us/training/modules/manage-security-controls-identity-access/ <br>
 Module 2: Manage Microsoft Entra application access -https://learn.microsoft.com/en-us/training/modules/manage-application-access-microsoft-entra-id/ <br>
 
 Labs <br>
 
 Lab 01 - Role-Based Access Control ~45 Minutes (90 Min) <br> 
-
-Challenge Labs supporting AZ-500T00-A - Module 1: Manage Identity and Access (105 Min) <br>
 
 ## Learning Path 2:  Implement platform protection - https://learn.microsoft.com/en-us/training/paths/secure-networking/
 
@@ -21,8 +21,6 @@ Labs ~150 Minutes (270 Min)<br>
 
 Lab 02 - Network Security Groups and Application Security Groups ~60 Minutes (90 Min) <br>
 Lab 03 - Azure Firewall ~90 Minutes (180 Min) <br>
-
-Challenge Labs supporting AZ-500T00-A - Module 2: Implement Platform Protection (360 Min) <br>
 
 ## Learning Path 3:  Secure Compute, Storage, and Databases - https://learn.microsoft.com/en-us/training/paths/secure-compute-storage-databases/
 
@@ -36,8 +34,6 @@ Lab 04 - Configuring and securing ACR and AKS​ ~60 Minutes (90 Min) <br>
 Lab 05 - Securing Azure SQL Database ~45 Minutes (90 Min) <br>
 Lab 06 - Service Endpoints and Securing Storage ~75 Minutes (90 Min)<br>
 
-Challenge Labs supporting AZ-500T00-A - Module 3: Secure Data and Applications (240 Min) <br>
-
 ## Learning Path 4: Secure Azure using Microsoft Defender for Cloud and Microsoft Sentinel  - https://learn.microsoft.com/en-us/training/paths/secure-azure-using-microsoft-defender-cloud-sentinel/
 
 Module 1: Implement and manage enforcement of cloud governance policies - https://learn.microsoft.com/en-us/training/modules/implement-manage-enforcement-cloud-governance-policies/ <br>
@@ -48,7 +44,4 @@ Module 4: Configure and manage security monitoring and automation solutions  - h
 Labs <br>
 
 Lab 07 - Key Vault​  ~45 Minutes (90 Min) <br>
-Lab 08, 09, 10 and 11 - Create a Log Analytics Workspace, Azure Storage Account, and Data Collection Rule (DCR) - Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers - Azure Sentinel ~180 Minutes (350 Min) <br>
-
-Challenge Labs supporting AZ-500T00-A - Module 4: Manage Security Operations (150 Min) <br>
-
+Lab 08, 09, 10 and 11 - Azure Monitor - Microsoft Defender for Cloud - Enable Just-In-Time Access in VM's - Microsoft Sentinel ~180 Minutes (350 Min) <br>
