@@ -41,7 +41,7 @@ Module 2: Manage security posture by using Microsoft Defender for Cloud - https:
 Module 3: Configure and manage threat protection by using Microsoft Defender for Cloud  - https://learn.microsoft.com/en-us/training/modules/microsoft-defender-cloud-threat-protection/<br>
 Module 4: Configure and manage security monitoring and automation solutions  - https://learn.microsoft.com/en-us/training/modules/security-monitoring-automation-solutions/<br>
 
-Labs <br>
+Labs ~225 Minutes (440 Min)<br>
 
 Lab 07 - Key Vault​  ~45 Minutes (90 Min) <br>
 Lab 08, 09, 10 and 11 - Azure Monitor - Microsoft Defender for Cloud - Enable Just-In-Time Access in VM's - Microsoft Sentinel ~180 Minutes (350 Min) <br>
