@@ -48,6 +48,10 @@ Task 1: Deploy an Azure virtual machine <br>
 Before step 7: Run the PowerShell CMDLET provided in the box above the lab instructions <br>
 Step 10: Paste the password used for the labuser account in the Resources drop down > add 1234 to make the password 12 characters  <br>
 
+### Exercise 3: Create an Azure storage account
+Task 1: Create an Azure storage account  <br>
+Step 3: Add your initials to the Storage Account Name  <br>
+
 # ***** DO NOT END THE LAB!!  After completing Lab 8 use the drop down window at the top to move to lab 9  DO NOT END THE LAB!! *****
 
 ## Lab 9 – Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers
