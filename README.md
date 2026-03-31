@@ -1,5 +1,5 @@
 # AZ-500T00 Microsoft Azure Security Technologies
-Reflects updated course on 14 Feb 2025 <br>
+Reflects updated course on 30 Oct 2025 <br>
 
 ## This repository is provided to enhance the course
 
@@ -10,5 +10,5 @@ If you find a lab step is not correct and it is not in the errata please add it 
 
 If you find a link is not working in the "links" documents, please add it to issues or a pull request and we will research and update the appropriate link document. <br>
 
-Last update - 2/14/2025
+Last update - 12/15/2025
  
