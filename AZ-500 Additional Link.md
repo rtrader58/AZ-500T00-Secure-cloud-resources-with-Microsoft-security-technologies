@@ -8,6 +8,7 @@ Replay - https://replay.interfacett.com <br>
 Lab Environment – https://LMS.Godeploy.it <br>
 AZ-500 Exam objectives - https://learn.microsoft.com/en-us/certifications/exams/az-500 <br>
 AZ-500 Exam Study Guide - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500 <br>
+AZ-500 Exam Study Videos -https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-01-fy25 <br>
 Exam discount - https://www.interfacett.com/microsoft-certification-exams/ <br>
 Azure Platforms Blog - https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform  <br> 
 Microsoft Learn - https://docs.microsoft.com/en-us/learn/browse/ <br>
