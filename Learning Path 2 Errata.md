@@ -4,9 +4,9 @@ When starting each lab choose Yes when prompted to be visible in networks<br>
 
 # Remember anywhere the term Azure Active Directory (AAD) select Microsoft Entra ID  (Name change)
 
-# Learning Path 2 – Implement Platform Protection - Total lab time ~95 Minutes (120)
+# Learning Path 2 – Implement Platform Protection - Total lab time ~150 - 270 Minutes (2.5 - 4.5 Hours)
 
-## Lab 02 – Network Security Groups and Application Security Groups ~45 Minutes (60 Min) 
+## Lab 02 – Network Security Groups and Application Security Groups ~60 - 90 Minutes 
 
 ### Exercise 1:  Filter network traffic with a network security group using the Azure portal
 
@@ -44,7 +44,7 @@ Replace step 1 with the following: <br>
 
 Step 1:  Open the Cloud Shell by clicking the first icon in the top right of the search area in the Azure portal > Select PowerShell > click Mount Storage Account > in the drop down choose your subscription > click Apply > select We will create a storage account for you > click next <br>
 
-## Lab 3 – Azure Firewall ~45 Minutes (60 Min) 
+## Lab 3 – Azure Firewall ~90 - 180 Minutes 
 
 ### Exercise 1:  Deploy and test an Azure Firewall 
 
