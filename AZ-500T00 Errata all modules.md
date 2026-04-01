@@ -147,15 +147,13 @@ Step 9:  For the password I used the Azure Admin passowrd in the resources tab. 
 Clean up resources <br>
 Delete the AZ500LAB12 Resource Group <br>
 
-
-	
-# AZ-500T00 Learning Path 4 Labs Errata  – Total time ~220 Minutes (440 Min) 
+# AZ-500T00 Learning Path 4 Labs Errata  – Total time ~220 - 440 Minutes (3.7 - 7.3 Hours) 
 
 When starting each lab choose Yes when prompted to be visible in networks<br>
 
 # Remember anywhere the term Azure Active Directory (AAD) select Microsoft Entra ID  (Name change)
 
-## Lab 7 – Key Vault (Implementing Secure Data by setting up Always Encrypted) ~75 Minutes (90)
+## Lab 7 – Key Vault (Implementing Secure Data by setting up Always Encrypted) ~75 - 90 Minutes
 
 ### Exercise 1: Deploy the base infrastructure from an ARM template
 
@@ -188,7 +186,7 @@ Step 10:  If you get an error when connecting, manually type in your password <b
 
 Step 16:  You may have to sign into Azure to see your key vault.  Click sign into Azure <br>
 
-# NOTE - Labs 8, 9, 10 and 11 launch in a single lab environment - Do Note End between labs ~180 Minutes (320)
+# NOTE - Labs 8, 9, 10 and 11 launch in a single lab environment - Do Note End between labs ~180 - 320 Minutes (3 - 5.3 Hours)
 ### Keep an eye on the lab timer.  You will need to extend the lab at least once to complete 
 
 ## Lab 8 – Create a Log Analytics Workspace, Azure Storage Account, and Data Collection Rule (DCR)
@@ -198,6 +196,10 @@ Step 16:  You may have to sign into Azure to see your key vault.  Click sign int
 Task 1: Deploy an Azure virtual machine <br>
 Before step 7: Run the PowerShell CMDLET provided in the box above the lab instructions <br>
 Step 10: Paste the password used for the labuser account in the Resources drop down > add 1234 to make the password 12 characters  <br>
+
+### Exercise 3: Create an Azure storage account
+Task 1: Create an Azure storage account  <br>
+Step 3: Add your initials to the Storage Account Name  <br>
 
 # ***** DO NOT END THE LAB!!  After completing Lab 8 use the drop down window at the top to move to lab 9  DO NOT END THE LAB!! *****
 
