@@ -19,7 +19,7 @@ Task 1:  Use PowerShell to create a user account for Isabel Garcia <br>
 Step 1:  Select PowerShell > click Mount Storage Account > in the drop down choose your subscription > click Apply > select We will create a storage account for you > click next <br>
 
 Task 2: Use PowerShell to create the Junior Admins group and add the user account of Isabel Garcia to the group <br>
-Step 3: The CMDLET pastes the wrong UPN for Isabel. Open Notepand and paste the CMDLET into notepad. Then find your Isabel account in the Entra Portal. Copy the UPN from the portal and paste into the UPN portion of the cmdlet in notepad. Copy the cmdlet from notepad and paste into the CloudShell <br> 
+Step 3: The CMDLET pastes the wrong UPN for Isabel. Open Notepad and paste the CMDLET into notepad. Then find your Isabel account in the Entra Portal. Copy the UPN from the portal and paste into the UPN portion of the cmdlet in notepad. Copy the cmdlet from notepad and paste into the CloudShell <br> 
 
 ### Exercise 3 – Creating a Service Desk Group; containing the user account Dylan Williams as its member
 
