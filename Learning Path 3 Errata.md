@@ -4,9 +4,9 @@ When starting each lab choose Yes when prompted to be visible in networks<br>
 
 # Remember anywhere the term Azure Active Directory (AAD) select Microsoft Entra ID  (Name change)
 
-# Learning Path 3 - Secure Data and Applications - Total lab time ~180 Minutes (270 Min)
+# Learning Path 3 - Secure Data and Applications - Total lab time ~180 - 270 Minutes (3 - 4.5 Hours)
 
-## Lab 4 – Configuring and Securing ACR and AKS ~60 Minutes (90 Min)
+## Lab 4 – Configuring and Securing ACR and AKS ~60 - 90 Minutes
 
 ### Exercise 1:  Configuring and Securing ACR and AKS
 
@@ -30,12 +30,12 @@ Skip Step 7 <br>
 Task 7: Deploy an internal service to AKS <br>
 Skip step 5 <br>
 
-## Lab 5 – Securing Azure SQL Database ~45 Minutes (90 Min)
+## Lab 5 – Securing Azure SQL Database ~45 - 90 Minutes
 
 Task 1: Deploy an Azure SQL Database <br>
 Step 4:  Allfiles is located on the Desktop <br>
 
-## Lab 6 – Service Endpoints and Securing Storage ~75 Minutes (90 Min)
+## Lab 6 – Service Endpoints and Securing Storage ~75 - 90 Minutes
 
 ### Exercise 1: Service endpoints and security storage
 
