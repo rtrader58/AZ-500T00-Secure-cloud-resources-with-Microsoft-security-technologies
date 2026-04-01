@@ -1,4 +1,4 @@
-# AZ-500T00 Learning Path 3 Errata (2024 revision) 
+# AZ-500T00 Learning Path 3 Errata (2025 revision) 
 
 When starting each lab choose Yes when prompted to be visible in networks<br>
 
