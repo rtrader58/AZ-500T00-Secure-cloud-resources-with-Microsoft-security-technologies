@@ -4,9 +4,9 @@ Updated June 2024 <br>
 When starting each lab choose Yes when prompted to be visible in networks<br>
 # Remember anywhere the term Azure Active Directory (AAD) select Microsoft Entra ID  (Name change)
  
-# Learning Path 1 Manage Identity and Access - Total lab time ~30 Minutes (90)
+# Learning Path 1 Manage Identity and Access - Total lab time ~30 - 90 Minutes
 
-## Lab 1 – Role-Based Access Control ~30 Minutes (90)
+## Lab 1 – Role-Based Access Control ~30 - 90 Minutes
 
 ### Exercise 1: Create the Senior Admins group with the user account Joseph Price as its member
 
