@@ -1,10 +1,10 @@
-# AZ-500T00 Learning Path 4 Labs Errata  – Total time ~220 Minutes (440 Min) 
+# AZ-500T00 Learning Path 4 Labs Errata  – Total time ~220 - 440 Minutes (3.7 - 7.3 Hours) 
 
 When starting each lab choose Yes when prompted to be visible in networks<br>
 
 # Remember anywhere the term Azure Active Directory (AAD) select Microsoft Entra ID  (Name change)
 
-## Lab 7 – Key Vault (Implementing Secure Data by setting up Always Encrypted) ~75 Minutes (90)
+## Lab 7 – Key Vault (Implementing Secure Data by setting up Always Encrypted) ~75 - 90 Minutes
 
 ### Exercise 1: Deploy the base infrastructure from an ARM template
 
@@ -37,7 +37,7 @@ Step 10:  If you get an error when connecting, manually type in your password <b
 
 Step 16:  You may have to sign into Azure to see your key vault.  Click sign into Azure <br>
 
-# NOTE - Labs 8, 9, 10 and 11 launch in a single lab environment - Do Note End between labs ~180 Minutes (320)
+# NOTE - Labs 8, 9, 10 and 11 launch in a single lab environment - Do Note End between labs ~180 - 320 Minutes (3 - 5.3 Hours)
 ### Keep an eye on the lab timer.  You will need to extend the lab at least once to complete 
 
 ## Lab 8 – Create a Log Analytics Workspace, Azure Storage Account, and Data Collection Rule (DCR)
