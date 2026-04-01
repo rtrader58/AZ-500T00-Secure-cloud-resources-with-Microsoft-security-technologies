@@ -48,23 +48,20 @@ Task 1: Deploy an Azure virtual machine <br>
 Before step 7: Run the PowerShell CMDLET provided in the box above the lab instructions <br>
 Step 10: Paste the password used for the labuser account in the Resources drop down > add 1234 to make the password 12 characters  <br>
 
-### Exercise 3: Create an Azure storage account
-Task 1: Create an Azure storage account  <br>
-Step 3: Add your initials to the Storage Account Name  <br>
-
-# ***** DO NOT END THE LAB!!  After completing Lab 8 use the drop down window at the top to move to lab 9  DO NOT END THE LAB!! *****
+# ***** DO NOT END THE LAB!!  After completing Lab 8 click Next move to lab 9  DO NOT END THE LAB!! *****
 
 ## Lab 9 – Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers
 
-No Errata <br>
+### Exercise 1: Enable JIT on your VMs from Azure virtual machines
+Per the note it took almost 15 minutes before the VM showed up - be patient <br>
 
-# ***** DO NOT END THE LAB!!  After completing Lab 8 use the drop down window at the top to move to lab 9  DO NOT END THE LAB!! *****
+# ***** DO NOT END THE LAB!!  After completing Lab 9 click Next move to lab 10  DO NOT END THE LAB!! *****
 
 ## Lab 10: Enable just-in-time access on VMs
 
 No Errata <br>
 
-# ***** DO NOT END THE LAB!!  After completing Lab 9 use the drop-down window at the top to move to lab 10.  Do not end the lab!! *****<br>
+# ***** DO NOT END THE LAB!!  After completing Lab 10 click Next move to lab 11.  Do not end the lab!! *****<br>
 
 ## Lab 11: Microsoft Sentinel
 
@@ -74,22 +71,29 @@ Task 1: On-board Microsoft Sentinel<br>
 Step 1:  You should already be logged in<br>
 
 Task 2: Configure Microsoft Sentinel to use the Azure Activity data connector<br>
+After Step 12: If you get an error adding Azure Activity redo steps 7 - 12 <br>
 Step 13: Per the note it may take over 15 minutes before the connector shows Connected and Data recieved. Please wait for it to show Connected before proceeding. <br>
 
 Task 3: Create a rule that uses the Azure Activity data connector <br>
-Wait for Task 2 to complete before you continue >br>
-Step 3: You will need to split off the instructions and go full screen to see the scroll bar > Click on the ... and select + Dreate Rule <br>
+Wait for Task 2 to complete before you continue <br>
+Step 2: Select Click here to go to the Defender Portal <br>
+Step 3: You will need to split off the instructions and go full screen to see the scroll bar > Click on the ... and select + Create Rule <br>
 
 Task 4: Create a playbook<br>
-Steps 1-3: Do these tasks in the VM, not your local OS.<br>
+Steps 1-3: Do these tasks in the Lab environment, not your local OS.<br>
 Step 3: Allfiles folder is located on your desktop <br>
 Step 5: Leave email blank <br>
 Step 12: Click on Change Connection > then follow the remaining step instructions > if pop is blocked > unblock it <br>
 Step 15: Click on Change Connection > Click on LabUser <br>
 
 Task 5: Create a custom alert and configure a playbook as an automated response<br>
+Step 2: Select Click here to go to the Defender Portal <br>
 Step 4: Tactics should say MITRE ATT&CK <br>
 Step 10: Under Alert automation, select the drop-down and check the Select all box<br>
+After Step 12: Exit the Wizard and redo Step 10 forward <br>
+
+Task 6: Invoke an incident and review the associated actions.
+Step 9: Select Click here to go to the Defender Portal <br>
 
 Task 6: Invoke an incident and review the associated actions<br>
 Step 5: This can take several minutes to show up. Stretch & hydrate!<br>
