@@ -92,7 +92,7 @@ Step 4: Tactics should say MITRE ATT&CK <br>
 Step 10: Under Alert automation, select the drop-down and check the Select all box<br>
 After Step 12: Exit the Wizard and redo Step 10 forward <br>
 
-Task 6: Invoke an incident and review the associated actions.
+Task 6: Invoke an incident and review the associated actions.<br>
 Step 9: Select Click here to go to the Defender Portal <br>
 
 Task 6: Invoke an incident and review the associated actions<br>
