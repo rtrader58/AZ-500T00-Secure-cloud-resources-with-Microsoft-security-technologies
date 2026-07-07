@@ -16,7 +16,7 @@ Step 4:  Allfiles is located on the Desktop <br>
 Task 1: Create and configure a Key Vault <br>
 Replace steps 1 - 4 with the following steps. (Key vault has to be created manually) <br>
 Search for Key Vaults, select Key Vaults from the list <br>
-Clcik + Create <br>
+Click + Create <br>
 Select the pre-created Resource Group <br>
 Name the Key Vault - az500kv-yourinitials <br>
 Click Next <br>
@@ -24,18 +24,18 @@ Under Permission model select the radial button next to Vault access policy <br>
 Under Access policies ensure your user account is checked <br>
 Click Review and create > Create <br>
 
-Step 9:  After selecting the 15 Certificate permissions > Clcik next > on the Principal tab search for your account (paste user account into search from the Lab Resources tab
+Step 9: After selecting the 15 Certificate permissions > Click next > on the Principal tab search for your account (paste user account into search from the Lab Resources tab)
 
 ## Exercise 3: Configure an Azure SQL database and a data-driven application
 
 Task 2: Create a policy allowing the application access to the Key Vault<br>
-Step 3:  Replace  ‘<Azure_AD_Application_Id>’ with your AP ID recorded in earlier step.  Make sure to include the ‘ at the beginning and end<br>
+Step 3: Replace  ‘<Azure_AD_Application_Id>’ with your AP ID recorded in earlier step.  Make sure to include the ‘ at the beginning and end<br>
 
 Task 5: Create a table in the SQL Database and select data columns for encryption <br>
-Step 6:  The link will open in your local browser > copy the link and paste into the Edge browser in the lab (installation took ~10 minutes) <br>
-Step 10:  If you get an error when connecting, manually type in your password <br>
+Step 6: The link will open in your local browser > copy the link and paste into the Edge browser in the lab (installation took ~10 minutes) <br>
+Step 10: If you get an error when connecting, manually type in your password <br>
 
-Step 16:  You may have to sign into Azure to see your key vault.  Click sign into Azure <br>
+Step 16: You may have to sign into Azure to see your key vault.  Click sign into Azure <br>
 
 # NOTE - Labs 8, 9, 10 and 11 launch in a single lab environment - Do Note End between labs ~180 - 320 Minutes (3 - 5.3 Hours)
 ### Keep an eye on the lab timer.  You will need to extend the lab at least once to complete 
@@ -60,7 +60,6 @@ After step 8: Select the box next to myVM
 ## Lab 9 – Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers
 
 No Errata <br>
-
 
 # ***** DO NOT END THE LAB!!  After completing Lab 9 click Next move to lab 10  DO NOT END THE LAB!! *****
 
@@ -97,12 +96,12 @@ Step 15: Click on Change Connection > Click on LabUser <br>
 Task 5: Create a custom alert and configure a playbook as an automated response<br>
 Step 2: Select Click here to go to the Defender Portal <br>
 Step 4: Tactics should say MITRE ATT&CK <br>
-Step 10: Under Alert automation, select the drop-down and check the Select all box<br>
+Step 10: Under Alert automation, select the drop-down and check the Select all box <br>
 After setting permissions it can take upto 20 minutes before you have permissions to choose the playbook <br>
 After Step 12: Exit the Wizard and redo Step 10 forward <br>
 
 Task 6: Invoke an incident and review the associated actions.<br>
+Step 5: This can take several minutes to show up. Stretch & hydrate!<br>
 Step 9: Select Click here to go to the Defender Portal <br>
 
-Task 6: Invoke an incident and review the associated actions<br>
-Step 5: This can take several minutes to show up. Stretch & hydrate!<br>
+
